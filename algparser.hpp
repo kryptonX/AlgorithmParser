@@ -27,7 +27,6 @@
 #include <cstring>
 #include <cmath>
 
-#include "linker.hpp"
 typedef unsigned int uint;
 namespace AlgParser {
 
